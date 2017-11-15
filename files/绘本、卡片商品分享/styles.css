@@ -340,7 +340,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:121px;
+  width:120px;
   height:57px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
@@ -352,19 +352,21 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-size:14px;
 }
 #u159 {
   position:absolute;
-  left:254px;
+  left:255px;
   top:598px;
-  width:121px;
+  width:120px;
   height:57px;
+  font-size:14px;
 }
 #u160 {
   position:absolute;
   left:2px;
   top:20px;
-  width:117px;
+  width:116px;
   word-wrap:break-word;
 }
 #u161 {

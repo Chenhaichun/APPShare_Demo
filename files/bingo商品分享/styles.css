@@ -398,7 +398,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:134px;
+  width:120px;
   height:57px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
@@ -410,19 +410,21 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-size:14px;
 }
 #u124 {
   position:absolute;
-  left:241px;
+  left:255px;
   top:598px;
-  width:134px;
+  width:120px;
   height:57px;
+  font-size:14px;
 }
 #u125 {
   position:absolute;
   left:2px;
   top:20px;
-  width:130px;
+  width:116px;
   word-wrap:break-word;
 }
 #u126 {
